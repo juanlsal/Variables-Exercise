@@ -1,0 +1,15 @@
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\obj\Debug\net6.0\Variable Exercise.csproj.AssemblyReference.cache
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\obj\Debug\net6.0\Variable Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\obj\Debug\net6.0\Variable Exercise.AssemblyInfoInputs.cache
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\obj\Debug\net6.0\Variable Exercise.AssemblyInfo.cs
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\obj\Debug\net6.0\Variable Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\bin\Debug\net6.0\Variable Exercise.exe
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\bin\Debug\net6.0\Variable Exercise.deps.json
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\bin\Debug\net6.0\Variable Exercise.runtimeconfig.json
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\bin\Debug\net6.0\Variable Exercise.dll
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\bin\Debug\net6.0\Variable Exercise.pdb
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\obj\Debug\net6.0\Variable Exercise.dll
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\obj\Debug\net6.0\refint\Variable Exercise.dll
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\obj\Debug\net6.0\Variable Exercise.pdb
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\obj\Debug\net6.0\Variable Exercise.genruntimeconfig.cache
+C:\Users\Juan Lopez Salamanca\Desktop\repos\Variable Exercise\Variable Exercise\obj\Debug\net6.0\ref\Variable Exercise.dll
